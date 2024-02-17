@@ -1,9 +1,9 @@
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Unispace&weight=100&pause=1000&color=#30336b&center=true&random=false&width=435&lines=HI 🙂+I'M+SANDUNI+PRIYADARSHANI" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Unispace&weight=100&pause=1000&color=F40CF7&center=true&random=false&width=435&lines=HI 🙂+I'M+SANDUNI+PRIYADARSHANI" alt="Typing SVG" /></a></p>
 
 ###
 
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Unispace&weight=100&size=13&duration=1&pause=1000&color=#30336b&center=true&repeat=false&random=false&width=600&lines=I'm+a+Undergraduated+Student%2C+from+IJSE-Institute+of+Software+Engineering" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Unispace&weight=100&size=13&duration=1&pause=1000&color=F40CF7&center=true&repeat=false&random=false&width=600&lines=I'm+a+Undergraduated+Student%2C+from+IJSE-Institute+of+Software+Engineering" alt="Typing SVG" /></a></p>
 
 
 
