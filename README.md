@@ -1,4 +1,4 @@
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Unispace&weight=100&pause=1000&color=F40CF7&center=true&random=false&width=435&lines=HI 🙂+I'M+SANDUNI+PRIYADARSHANI" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Unispace&weight=100&pause=1000&color=#130f40&center=true&random=false&width=435&lines=HI 🙂+I'M+SANDUNI+PRIYADARSHANI" alt="Typing SVG" /></a></p>
 
 ###
 
